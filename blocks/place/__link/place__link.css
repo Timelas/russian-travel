@@ -8,6 +8,6 @@
 }
 
 .place__link:hover {
-  color: aquamarine;
+  opacity: 0.8;
 }
 

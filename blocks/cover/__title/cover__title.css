@@ -7,6 +7,7 @@
   color: #fff;
   width: 560px;
   z-index: 2;
+  margin: 0 auto 32px;
 }
 
 @media screen and (max-width: 767px) {
